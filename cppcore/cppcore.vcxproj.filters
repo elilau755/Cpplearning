@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="85_globalsegment.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="86_stack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="87_heap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="88_new&amp;delete.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="92_reference_as_function_return_value.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="93_reference_core.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="94_constant_ref.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="98_fnreload.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="99_CricleClass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="100_StudentClass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="103_Member_attribute_privatization.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="104_^3class.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="105_point&amp;circle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="point.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="circle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="106_Construct&amp;destruct.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="108_copyConstructFnTime.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="109_ConstructRule.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="WAROFAIR.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="110_Deep&amp;shallow_copy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="111_initialize_list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="112_class_object_as_a_class_ member.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="113_static_member.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="113_static_member_fn.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="114_objectspace.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="115_thispoint.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="116_nullpoint.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="117_constfn.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="118_globalfn_friend.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="119_friendclass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="120_memberfn_friend.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="121_addoverload.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="122_leftshift_overload.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="123_Increment_overload.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="123_Decrement_overload.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="124_assignment_deepcopy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="124_assignment_overload.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="125_relation_overload.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="126_function_call_overload.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="127_Inherit_Basic_Grammar.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="128_Object_Model_in_Inheritance.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="130_Father&amp;Son_Construct&amp;Destruct.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="131_Same_name_treatment.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="132_static_Same_name_treatment.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="133_multi_Inherit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="134_diamond_Inherit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="135_polymorphic_basic_syntax.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="137_calculator_class.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="138_Pure_virtual_fn.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="139_make_drinking.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="140_%28pure%29_virtual_destructor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="142_computer_makeup.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="143_text_operation_write_file.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="144_text_operation_read_file.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="145_binary_writefile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="146_binary_readfile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="point.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="circle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
