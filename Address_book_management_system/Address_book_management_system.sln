@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Address_book_management_system", "Address_book_management_system.vcxproj", "{E9931C58-FF2C-4EF6-8AE3-5B8DFF125934}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9931C58-FF2C-4EF6-8AE3-5B8DFF125934}.Debug|x64.ActiveCfg = Debug|x64
+		{E9931C58-FF2C-4EF6-8AE3-5B8DFF125934}.Debug|x64.Build.0 = Debug|x64
+		{E9931C58-FF2C-4EF6-8AE3-5B8DFF125934}.Debug|x86.ActiveCfg = Debug|Win32
+		{E9931C58-FF2C-4EF6-8AE3-5B8DFF125934}.Debug|x86.Build.0 = Debug|Win32
+		{E9931C58-FF2C-4EF6-8AE3-5B8DFF125934}.Release|x64.ActiveCfg = Release|x64
+		{E9931C58-FF2C-4EF6-8AE3-5B8DFF125934}.Release|x64.Build.0 = Release|x64
+		{E9931C58-FF2C-4EF6-8AE3-5B8DFF125934}.Release|x86.ActiveCfg = Release|Win32
+		{E9931C58-FF2C-4EF6-8AE3-5B8DFF125934}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2DEB6C9-27CF-408F-9AB4-762DF19815EF}
+	EndGlobalSection
+EndGlobal
